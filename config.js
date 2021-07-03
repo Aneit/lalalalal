@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'OK',
     title: 'Cậu yêu tớ có phải không .-.',
     desc: 'nếu cậu không trả lời mà thoát ra tức là muốn làm chồng tớ rồi đó nha ',
-    btnYes: 'yêu ơi là yêu <33',
+    btnYes: 'yêu ơi là yêu <333',
     btnNo: 'cậu mơ à :3',
     question:'nói cho tớ lý do cậu thích tớ đi ',
     btnReply: 'Gửi cho tớ <3',
